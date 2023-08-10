@@ -2,7 +2,7 @@ package ru.netology.test;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import ru.netology.data.LoginPage;
+import ru.netology.page.LoginPage;
 import ru.netology.page.DashboardPage;
 import static com.codeborne.selenide.Selenide.open;
 import static ru.netology.data.DataHelper.*;
